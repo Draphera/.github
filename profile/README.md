@@ -1,34 +1,40 @@
-# 🧵 Draphera
+# 🧵 Draphera  
+Crafting the future of digital patternmaking.
 
-Draphera develops **VISION**, a modern desktop application for digital patternmaking.  
-Our goal is to build a clear, open and technically solid foundation for the next generation of CAD tools in the fashion and manufacturing industry.
+Draphera is an independent studio building **VISION**, a next‑generation desktop application designed to bring clarity, precision and openness to the fashion and manufacturing industry.
+
+Our work focuses on modernizing CAD workflows, improving interoperability, and creating tools that respect both legacy standards and contemporary production needs.
 
 ---
 
-## 🚀 VISION Project
+## ✨ What We’re Building
 
-VISION is currently in early development.  
-The first supported format will be **HPGL/PLT**, with initial viewing and printing capabilities planned for release soon.
+### **VISION**
+A clean, modern and technically rigorous environment for digital patternmaking.  
+Currently in early development, with initial support for **HPGL/PLT** coming soon.
 
-Public updates, technical notes and documentation will be published progressively as the project evolves.
+### **Draphera Docs**
+Our public knowledge base:  
+file format research, CAD interoperability notes, technical specifications and internal architecture insights.  
+https://github.com/draphera/draphera-docs
 
 ---
 
 ## 📚 Documentation
 
-Technical documentation, file format analyses, CAD interoperability notes and internal specifications are available in:
+Full documentation is maintained in the Draphera Docs Wiki:  
+👉 https://github.com/draphera/draphera-docs/wiki
 
-👉 **Draphera Docs**  
-https://github.com/draphera/draphera-docs
-
-The full documentation is maintained in the Wiki.
+Italian documentation is available under `/it`.
 
 ---
 
-## 🛠️ Repositories
+## 🧭 Philosophy
 
-- **draphera-docs** — Technical documentation and format research  
-- Additional repositories will be published as VISION development progresses
+- **Open knowledge** — documentation and research are public by default  
+- **Interoperability first** — respect for existing industry standards  
+- **Clarity over complexity** — tools should be understandable, predictable and stable  
+- **Long‑term thinking** — build foundations, not quick fixes  
 
 ---
 
@@ -50,4 +56,4 @@ For technical questions, collaborations or file analysis:
 
 ## 🔖 License
 
-Unless otherwise specified, Draphera public documentation is released under **CC BY 4.0**.
+Documentation is released under **CC BY 4.0**, unless otherwise specified.
